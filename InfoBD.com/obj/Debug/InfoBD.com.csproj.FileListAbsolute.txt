@@ -1,0 +1,6 @@
+c:\users\toufique\documents\visual studio 2013\Projects\InfoBD.com\InfoBD.com\bin\InfoBD.com.dll.config
+c:\users\toufique\documents\visual studio 2013\Projects\InfoBD.com\InfoBD.com\bin\InfoBD.com.dll
+c:\users\toufique\documents\visual studio 2013\Projects\InfoBD.com\InfoBD.com\bin\InfoBD.com.pdb
+c:\users\toufique\documents\visual studio 2013\Projects\InfoBD.com\InfoBD.com\obj\Debug\InfoBD.com.csprojResolveAssemblyReference.cache
+c:\users\toufique\documents\visual studio 2013\Projects\InfoBD.com\InfoBD.com\obj\Debug\InfoBD.com.dll
+c:\users\toufique\documents\visual studio 2013\Projects\InfoBD.com\InfoBD.com\obj\Debug\InfoBD.com.pdb

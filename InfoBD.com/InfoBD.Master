@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="InfoBD.master.cs" Inherits="InfoBD.com.InfoBD" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Info-BD.com</title>
+    <link rel="icon" href="images/title.ico" type="image/x-icon">
+    <meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+</head>
+    <body class="landing">
+        <!-- Header -->
+			<header id="header">
+				<h1><a href="Home.aspx" style="font-size:20px">Info-BD</a></h1>
+				<a href="#nav" style="font-size:18px">MENU</a>
+			</header>
+
+         <!-- Nav -->
+			<nav id="nav">
+				<ul class="links">
+					<li><a href="Home.aspx">Home</a></li>
+					<li><a href="Police.aspx">Bangladesh Police</a></li>
+					<li><a href="Rab.aspx">Rapid Action Battalion</a></li>
+                    <li><a href="Fire.aspx">Bangladesh Fire Service</a></li>
+                    <li><a href="Hospital.aspx">Hospitals of Bangladesh</a></li>
+                    <li><a href="GiveInfo.aspx">Give Information</a></li>
+                    <li><a href="SignIn.aspx">Sign In</a></li>
+                    <li><a href="About.aspx">About Us</a></li>
+                    <li><a href="Dev.aspx">Developer</a></li>
+				</ul>
+			</nav>
+        
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+        
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+					<ul class="copyright">
+						<li style="font-size:16px">&copy; 2015 TOUFIQUE HASAN</li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+</body>
+</html>
+
